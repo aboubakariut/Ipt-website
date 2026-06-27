@@ -1,0 +1,22 @@
+{
+  "name": "ipt-informatique-pour-tous",
+  "version": "1.0.0",
+  "description": "IPT - Informatique Pour Tous - Services informatiques au Cameroun",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "dev": "serve"
+  },
+  "keywords": [
+    "web development",
+    "mobile app",
+    "design",
+    "cameroon",
+    "services"
+  ],
+  "author": "IPT - Informatique Pour Tous",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.0"
+  }
+}
